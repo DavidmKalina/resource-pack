@@ -14,5 +14,3 @@ don't edit it by hand. What's in it:
 - `assets/minecraft/textures/`, `assets/minecraft/lang/`: beetroots look like bananas (green while growing, yellow
   when ripe) and are called Banana, Banana Seeds and Bananas; beetroot soup is "Cumpot", a cheesecake gone wrong
 - `assets/ctweaks/`: models for the extra slabs and stairs of the CraftingTweaks plugin
-
-`fiery-wings.zip` is the old pack from before everything moved into one; it goes once the server has switched over.
