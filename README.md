@@ -14,3 +14,7 @@ don't edit it by hand. What's in it:
 - `assets/minecraft/textures/`, `assets/minecraft/lang/`: beetroots look like bananas (green while growing, yellow
   when ripe) and are called Banana, Banana Seeds and Bananas; beetroot soup is "Cumpot", a cheesecake gone wrong
 - `assets/ctweaks/`: models for the extra slabs and stairs of the CraftingTweaks plugin
+- `assets/worldevents/`: textures for the items the server's events drop (WorldEvents plugin)
+- `assets/jackolanterns/` and `assets/minecraft/blockstates/`: placed jack o'lanterns and carved pumpkins get a random
+  face. The faces are from [More Jack-o-Lantern Faces (Pumpkin Pack)](https://www.planetminecraft.com/texture-pack/more-jack-o-lantern-faces/)
+  on Planet Minecraft, credit ImagineerSkyy
